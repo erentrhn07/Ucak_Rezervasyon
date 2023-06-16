@@ -1,4 +1,4 @@
-# ucak_rezervasyon_sistemi
+# ucak_rezervasyon
 
 Java Projesi/Uçak Rezervasyon Sistemi
 
